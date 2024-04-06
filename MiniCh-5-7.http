@@ -1,0 +1,6 @@
+@MiniCh_5_7_HostAddress = http://localhost:5067
+
+GET {{MiniCh_5_7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/MiniCh-5-7.props" />
+</Project>
